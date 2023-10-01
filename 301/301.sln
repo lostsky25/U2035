@@ -47,6 +47,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0061_acmp", "0061_acmp\0061
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0131_acmp", "0131_acmp\0131_acmp.vcxproj", "{9B80BE09-072E-4FD7-B651-198DAB60AF19}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01 10 2023 Циклы в программировании. Цикл while", "01 10 2023 Циклы в программировании. Цикл while\01 10 2023 Циклы в программировании. Цикл while.vcxproj", "{2BA55AE4-A042-4509-916B-1EBA8E409604}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -191,6 +193,14 @@ Global
 		{9B80BE09-072E-4FD7-B651-198DAB60AF19}.Release|x64.Build.0 = Release|x64
 		{9B80BE09-072E-4FD7-B651-198DAB60AF19}.Release|x86.ActiveCfg = Release|Win32
 		{9B80BE09-072E-4FD7-B651-198DAB60AF19}.Release|x86.Build.0 = Release|Win32
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Debug|x64.ActiveCfg = Debug|x64
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Debug|x64.Build.0 = Debug|x64
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Debug|x86.ActiveCfg = Debug|Win32
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Debug|x86.Build.0 = Debug|Win32
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Release|x64.ActiveCfg = Release|x64
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Release|x64.Build.0 = Release|x64
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Release|x86.ActiveCfg = Release|Win32
+		{2BA55AE4-A042-4509-916B-1EBA8E409604}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -217,6 +227,7 @@ Global
 		{C01058D1-58AA-4937-9B81-9405431AD9DF} = {B8A81218-0320-4F5F-8E62-8A456B9AADF8}
 		{A88EC901-E010-44C7-94D4-D9B265513A98} = {B8A81218-0320-4F5F-8E62-8A456B9AADF8}
 		{9B80BE09-072E-4FD7-B651-198DAB60AF19} = {B8A81218-0320-4F5F-8E62-8A456B9AADF8}
+		{2BA55AE4-A042-4509-916B-1EBA8E409604} = {4A37FA9A-9228-443A-BDBA-C574E328766B}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B4B387D-D349-4DA8-A8C4-099A0123FA84}
