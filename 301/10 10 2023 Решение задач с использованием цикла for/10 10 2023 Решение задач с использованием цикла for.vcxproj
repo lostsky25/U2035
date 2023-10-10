@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d834ee16-ab40-4e44-a46f-319a206eeb81}</ProjectGuid>
-    <RootNamespace>ЦиклывпрограммированииЦиклfor</RootNamespace>
+    <ProjectGuid>{11cb24f6-f63a-4c28-aa27-9f7623ca3b14}</ProjectGuid>
+    <RootNamespace>My10102023Решениезадачсиспользованиемциклаfor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>08 10 2023 Циклы в программировании. Цикл for</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Циклы в программировании. Цикл for.cpp" />
+    <ClCompile Include="10 10 2023 Решение задач с использованием цикла for.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
