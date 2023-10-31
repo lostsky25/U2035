@@ -77,6 +77,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 2", "Module 2", "{7B
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29 10 2023 Решение задач при помощи ссылок с применением псевдорандомных чисел", "29 10 2023 Решение задач при помощи ссылок с применением псевдорандомных чисел\29 10 2023 Решение задач при помощи ссылок с применением псевдорандомных чисел.vcxproj", "{DA6BCD90-F056-4AF5-9067-A868AA1BA48D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31 10 2023 Динамическое выделение памяти в С++", "31 10 2023 Динамическое выделение памяти в С++\31 10 2023 Динамическое выделение памяти в С++.vcxproj", "{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -325,6 +327,14 @@ Global
 		{DA6BCD90-F056-4AF5-9067-A868AA1BA48D}.Release|x64.Build.0 = Release|x64
 		{DA6BCD90-F056-4AF5-9067-A868AA1BA48D}.Release|x86.ActiveCfg = Release|Win32
 		{DA6BCD90-F056-4AF5-9067-A868AA1BA48D}.Release|x86.Build.0 = Release|Win32
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Debug|x64.ActiveCfg = Debug|x64
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Debug|x64.Build.0 = Debug|x64
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Debug|x86.Build.0 = Debug|Win32
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Release|x64.ActiveCfg = Release|x64
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Release|x64.Build.0 = Release|x64
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Release|x86.ActiveCfg = Release|Win32
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -365,6 +375,7 @@ Global
 		{B94CD7C0-21FD-497C-ACDE-B7F3944F7290} = {4A37FA9A-9228-443A-BDBA-C574E328766B}
 		{2ABC2E3A-D74B-4710-A04A-994AB50EF187} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 		{DA6BCD90-F056-4AF5-9067-A868AA1BA48D} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
+		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B4B387D-D349-4DA8-A8C4-099A0123FA84}
