@@ -9,6 +9,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Решение задач �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02 11 2023 Ветвление. Условный оператор if", "Ветвление. Условный оператор if\Ветвление. Условный оператор if.vcxproj", "{8247DD4E-B6FF-465F-B03E-BA52795909EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 11 2023 Задачи с использованием условного оператора", "03 11 2023 Задачи с использованием условного оператора\03 11 2023 Задачи с использованием условного оператора.vcxproj", "{029BFCBB-871E-42D4-B1F5-A74D43C05E48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 1", "Module 1", "{454F8C50-AF1E-47A8-A9CE-A02A9E092A20}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,9 +45,23 @@ Global
 		{8247DD4E-B6FF-465F-B03E-BA52795909EE}.Release|x64.Build.0 = Release|x64
 		{8247DD4E-B6FF-465F-B03E-BA52795909EE}.Release|x86.ActiveCfg = Release|Win32
 		{8247DD4E-B6FF-465F-B03E-BA52795909EE}.Release|x86.Build.0 = Release|Win32
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Debug|x64.ActiveCfg = Debug|x64
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Debug|x64.Build.0 = Debug|x64
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Debug|x86.ActiveCfg = Debug|Win32
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Debug|x86.Build.0 = Debug|Win32
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x64.ActiveCfg = Release|x64
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x64.Build.0 = Release|x64
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x86.ActiveCfg = Release|Win32
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{853DB37A-A0E6-4D03-872F-E10D6B0E5202} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
+		{FFFBA4B3-4F16-4957-88DC-21379FE3630E} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
+		{8247DD4E-B6FF-465F-B03E-BA52795909EE} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
+		{029BFCBB-871E-42D4-B1F5-A74D43C05E48} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA856214-0A95-472D-B74C-D1673552083B}
