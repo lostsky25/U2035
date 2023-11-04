@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 11 2023 Задачи с 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 1", "Module 1", "{454F8C50-AF1E-47A8-A9CE-A02A9E092A20}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 11 2023 Оператор множественного выбора switch", "04 11 2023 Оператор множественного выбора switch\04 11 2023 Оператор множественного выбора switch.vcxproj", "{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -53,6 +55,14 @@ Global
 		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x64.Build.0 = Release|x64
 		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x86.ActiveCfg = Release|Win32
 		{029BFCBB-871E-42D4-B1F5-A74D43C05E48}.Release|x86.Build.0 = Release|Win32
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Debug|x64.ActiveCfg = Debug|x64
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Debug|x64.Build.0 = Debug|x64
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Debug|x86.Build.0 = Debug|Win32
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Release|x64.ActiveCfg = Release|x64
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Release|x64.Build.0 = Release|x64
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Release|x86.ActiveCfg = Release|Win32
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -62,6 +72,7 @@ Global
 		{FFFBA4B3-4F16-4957-88DC-21379FE3630E} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
 		{8247DD4E-B6FF-465F-B03E-BA52795909EE} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
 		{029BFCBB-871E-42D4-B1F5-A74D43C05E48} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
+		{7D5EB28F-1A8A-4C46-B95B-FD80875A7C1F} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA856214-0A95-472D-B74C-D1673552083B}
