@@ -24,6 +24,7 @@
     <ProjectGuid>{6de71fa0-e9f7-4945-9020-7957f5df84cc}</ProjectGuid>
     <RootNamespace>My04112023Решениезадачнадинамическоевыделениепамяти</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>05 11 2023 Решение задач на динамическое выделение памяти</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -127,7 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="04 11 2023 Решение задач на динамическое выделение памяти.cpp" />
+    <ClCompile Include="05 11 2023 Решение задач на динамическое выделение памяти.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

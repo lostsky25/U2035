@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="04 11 2023 Решение задач на динамическое выделение памяти.cpp">
+    <ClCompile Include="05 11 2023 Решение задач на динамическое выделение памяти.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
