@@ -79,7 +79,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29 10 2023 Решение �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "31 10 2023 Динамическое выделение памяти в С++", "31 10 2023 Динамическое выделение памяти в С++\31 10 2023 Динамическое выделение памяти в С++.vcxproj", "{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "04 11 2023 Решение задач на динамическое выделение памяти", "04 11 2023 Решение задач на динамическое выделение памяти\04 11 2023 Решение задач на динамическое выделение памяти.vcxproj", "{6DE71FA0-E9F7-4945-9020-7957F5DF84CC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "05 11 2023 Решение задач на динамическое выделение памяти", "04 11 2023 Решение задач на динамическое выделение памяти\04 11 2023 Решение задач на динамическое выделение памяти.vcxproj", "{6DE71FA0-E9F7-4945-9020-7957F5DF84CC}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 11 2023 Структуры и шаблоны в С++", "07 11 2023 Структуры и шаблоны в С++\07 11 2023 Структуры и шаблоны в С++.vcxproj", "{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +347,14 @@ Global
 		{6DE71FA0-E9F7-4945-9020-7957F5DF84CC}.Release|x64.Build.0 = Release|x64
 		{6DE71FA0-E9F7-4945-9020-7957F5DF84CC}.Release|x86.ActiveCfg = Release|Win32
 		{6DE71FA0-E9F7-4945-9020-7957F5DF84CC}.Release|x86.Build.0 = Release|Win32
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Debug|x64.ActiveCfg = Debug|x64
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Debug|x64.Build.0 = Debug|x64
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Debug|x86.Build.0 = Debug|Win32
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Release|x64.ActiveCfg = Release|x64
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Release|x64.Build.0 = Release|x64
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Release|x86.ActiveCfg = Release|Win32
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -387,6 +397,7 @@ Global
 		{DA6BCD90-F056-4AF5-9067-A868AA1BA48D} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 		{FD06DFF5-80F9-4BA8-A691-F70C6C90BAE0} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 		{6DE71FA0-E9F7-4945-9020-7957F5DF84CC} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
+		{6B9316DE-8BD4-4546-B92E-2922E5EE4F8C} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B4B387D-D349-4DA8-A8C4-099A0123FA84}
