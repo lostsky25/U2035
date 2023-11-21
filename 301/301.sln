@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Two Sum", "Two Sum\Two Sum.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19 11 2023 Решение задач при помощи последовательных контейнеров", "19 11 2023 Решение задач при помощи последовательных контейнеров\19 11 2023 Решение задач при помощи последовательных контейнеров.vcxproj", "{534E7A6C-46F7-48B5-84C9-EF67502AF4FC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21 11 2023 Бинарные деревья, set, map, multiset, multimap", "21 11 2023 Бинарные деревья, set, map, multiset, multimap\21 11 2023 Бинарные деревья, set, map, multiset, multimap.vcxproj", "{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -429,6 +431,14 @@ Global
 		{534E7A6C-46F7-48B5-84C9-EF67502AF4FC}.Release|x64.Build.0 = Release|x64
 		{534E7A6C-46F7-48B5-84C9-EF67502AF4FC}.Release|x86.ActiveCfg = Release|Win32
 		{534E7A6C-46F7-48B5-84C9-EF67502AF4FC}.Release|x86.Build.0 = Release|Win32
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Debug|x64.ActiveCfg = Debug|x64
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Debug|x64.Build.0 = Debug|x64
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Debug|x86.ActiveCfg = Debug|Win32
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Debug|x86.Build.0 = Debug|Win32
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x64.ActiveCfg = Release|x64
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x64.Build.0 = Release|x64
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x86.ActiveCfg = Release|Win32
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -481,6 +491,7 @@ Global
 		{35EFE78C-F897-4806-9101-5D480A1F8387} = {8093A4CE-B416-4051-A919-A3767519465F}
 		{BFDA659B-F585-4663-9E3F-4E070FED506C} = {8093A4CE-B416-4051-A919-A3767519465F}
 		{534E7A6C-46F7-48B5-84C9-EF67502AF4FC} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
+		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B4B387D-D349-4DA8-A8C4-099A0123FA84}
