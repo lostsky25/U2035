@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "0010_acmp", "0010_acmp\0010
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22 11 2023 Массивы, класс строк. Многомерные массивы", "22 11 2023 Массивы, класс строк. Многомерные массивы\22 11 2023 Массивы, класс строк. Многомерные массивы.vcxproj", "{EA7256AC-F81B-45BB-B441-F7F50F483755}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25 11 2023 Функции в C++, возврат значений при помощи return", "25 11 2023 Функции в C++, возврат значений при помощи return\25 11 2023 Функции в C++, возврат значений при помощи return.vcxproj", "{624A9780-FDD2-4D84-98DC-A48519EEBA99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -193,6 +195,14 @@ Global
 		{EA7256AC-F81B-45BB-B441-F7F50F483755}.Release|x64.Build.0 = Release|x64
 		{EA7256AC-F81B-45BB-B441-F7F50F483755}.Release|x86.ActiveCfg = Release|Win32
 		{EA7256AC-F81B-45BB-B441-F7F50F483755}.Release|x86.Build.0 = Release|Win32
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Debug|x64.ActiveCfg = Debug|x64
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Debug|x64.Build.0 = Debug|x64
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Debug|x86.ActiveCfg = Debug|Win32
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Debug|x86.Build.0 = Debug|Win32
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Release|x64.ActiveCfg = Release|x64
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Release|x64.Build.0 = Release|x64
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Release|x86.ActiveCfg = Release|Win32
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -220,6 +230,7 @@ Global
 		{D8AAEF88-9A15-44EA-830E-7E36C3DAF39A} = {FE6A6CC4-08F0-4735-8D1E-7258A60E33C9}
 		{8DCC6B39-F12C-4215-A902-1269DAA3C44E} = {20857ECF-2832-4841-8B53-455C0D2F64D6}
 		{EA7256AC-F81B-45BB-B441-F7F50F483755} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
+		{624A9780-FDD2-4D84-98DC-A48519EEBA99} = {454F8C50-AF1E-47A8-A9CE-A02A9E092A20}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA856214-0A95-472D-B74C-D1673552083B}
