@@ -103,6 +103,14 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "19 11 2023 Решение �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "21 11 2023 Бинарные деревья, set, map, multiset, multimap", "21 11 2023 Бинарные деревья, set, map, multiset, multimap\21 11 2023 Бинарные деревья, set, map, multiset, multimap.vcxproj", "{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "26 11 2023 Решение задач с контейнерами", "26 11 2023 Решение задач с контейнерами\26 11 2023 Решение задач с контейнерами.vcxproj", "{4275D29B-F279-4A05-83BD-7649105FA0F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "100. Same Tree", "100. Same Tree\100. Same Tree.vcxproj", "{8DBE8774-880C-4581-A252-7DF6F919392C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "101. Symmetric Tree", "101. Symmetric Tree\101. Symmetric Tree.vcxproj", "{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "104. Maximum Depth of Binary Tree", "104. Maximum Depth of Binary Tree\104. Maximum Depth of Binary Tree.vcxproj", "{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -439,6 +447,38 @@ Global
 		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x64.Build.0 = Release|x64
 		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x86.ActiveCfg = Release|Win32
 		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E}.Release|x86.Build.0 = Release|Win32
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Debug|x64.ActiveCfg = Debug|x64
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Debug|x64.Build.0 = Debug|x64
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Debug|x86.ActiveCfg = Debug|Win32
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Debug|x86.Build.0 = Debug|Win32
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Release|x64.ActiveCfg = Release|x64
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Release|x64.Build.0 = Release|x64
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Release|x86.ActiveCfg = Release|Win32
+		{4275D29B-F279-4A05-83BD-7649105FA0F2}.Release|x86.Build.0 = Release|Win32
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Debug|x64.ActiveCfg = Debug|x64
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Debug|x64.Build.0 = Debug|x64
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Debug|x86.ActiveCfg = Debug|Win32
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Debug|x86.Build.0 = Debug|Win32
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Release|x64.ActiveCfg = Release|x64
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Release|x64.Build.0 = Release|x64
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Release|x86.ActiveCfg = Release|Win32
+		{8DBE8774-880C-4581-A252-7DF6F919392C}.Release|x86.Build.0 = Release|Win32
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Debug|x64.ActiveCfg = Debug|x64
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Debug|x64.Build.0 = Debug|x64
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Debug|x86.ActiveCfg = Debug|Win32
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Debug|x86.Build.0 = Debug|Win32
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Release|x64.ActiveCfg = Release|x64
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Release|x64.Build.0 = Release|x64
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Release|x86.ActiveCfg = Release|Win32
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0}.Release|x86.Build.0 = Release|Win32
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Debug|x64.ActiveCfg = Debug|x64
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Debug|x64.Build.0 = Debug|x64
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Debug|x86.Build.0 = Debug|Win32
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Release|x64.ActiveCfg = Release|x64
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Release|x64.Build.0 = Release|x64
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Release|x86.ActiveCfg = Release|Win32
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -492,6 +532,10 @@ Global
 		{BFDA659B-F585-4663-9E3F-4E070FED506C} = {8093A4CE-B416-4051-A919-A3767519465F}
 		{534E7A6C-46F7-48B5-84C9-EF67502AF4FC} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
 		{E71B6BF5-80E4-4BF2-AB82-3A0AB807F99E} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
+		{4275D29B-F279-4A05-83BD-7649105FA0F2} = {7B2ECA46-6CF3-4F1E-8650-1F08DE506E45}
+		{8DBE8774-880C-4581-A252-7DF6F919392C} = {8093A4CE-B416-4051-A919-A3767519465F}
+		{3348FB00-3BC5-46B6-A3A2-4DE364E5ABF0} = {8093A4CE-B416-4051-A919-A3767519465F}
+		{AEFBB01B-7F05-4F8C-A5A9-F71519F6899C} = {8093A4CE-B416-4051-A919-A3767519465F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5B4B387D-D349-4DA8-A8C4-099A0123FA84}
