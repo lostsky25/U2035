@@ -29,7 +29,7 @@ int main() {
     //    delete[] arr[i];
     //}
 
-    delete[] arr;
+    //delete[] arr;
 
     //const int rows = 3;
     //const int columns = 5;
