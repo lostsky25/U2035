@@ -69,6 +69,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "27 11 2023 Функции",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "30 11 2023 Тестирование", "30 11 2023 Тестирование\30 11 2023 Тестирование.vcxproj", "{0E33C889-4F53-4D58-ADEC-1203C75BD40B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Module 2", "Module 2", "{FD4DD170-48DA-4B1D-842D-723F745D74C2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07 12 2023 Решение задач, указатели, ссылки", "07 12 2023 Решение задач, указатели, ссылки\07 12 2023 Решение задач, указатели, ссылки.vcxproj", "{779068E7-D7FB-4D62-84DD-AADEEE36C250}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -293,6 +297,14 @@ Global
 		{0E33C889-4F53-4D58-ADEC-1203C75BD40B}.Release|x64.Build.0 = Release|x64
 		{0E33C889-4F53-4D58-ADEC-1203C75BD40B}.Release|x86.ActiveCfg = Release|Win32
 		{0E33C889-4F53-4D58-ADEC-1203C75BD40B}.Release|x86.Build.0 = Release|Win32
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Debug|x64.ActiveCfg = Debug|x64
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Debug|x64.Build.0 = Debug|x64
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Debug|x86.ActiveCfg = Debug|Win32
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Debug|x86.Build.0 = Debug|Win32
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Release|x64.ActiveCfg = Release|x64
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Release|x64.Build.0 = Release|x64
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Release|x86.ActiveCfg = Release|Win32
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -330,6 +342,7 @@ Global
 		{10532059-4136-44B7-91A5-B0CF63244AB1} = {9E04DA88-4D6F-4F43-8A46-A03DCAF769BE}
 		{2DCE8218-D1F6-4A3C-8C65-A75776E21604} = {9DE99708-238A-45BE-81B0-3944DD385CE8}
 		{0E33C889-4F53-4D58-ADEC-1203C75BD40B} = {9DE99708-238A-45BE-81B0-3944DD385CE8}
+		{779068E7-D7FB-4D62-84DD-AADEEE36C250} = {FD4DD170-48DA-4B1D-842D-723F745D74C2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1F86D346-76B9-45E6-839E-5E80466A1D19}
