@@ -61,6 +61,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06 12 2023 Решение �
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 12 2023 new delete", "09 12 2023 new delete\09 12 2023 new delete.vcxproj", "{4C1EA637-6853-4967-9146-159109F3FC82}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13 12 2023 new delete задачи", "13 12 2023 new delete задачи\13 12 2023 new delete задачи.vcxproj", "{244F60F8-F155-4414-B780-AD042F83670E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -245,6 +247,14 @@ Global
 		{4C1EA637-6853-4967-9146-159109F3FC82}.Release|x64.Build.0 = Release|x64
 		{4C1EA637-6853-4967-9146-159109F3FC82}.Release|x86.ActiveCfg = Release|Win32
 		{4C1EA637-6853-4967-9146-159109F3FC82}.Release|x86.Build.0 = Release|Win32
+		{244F60F8-F155-4414-B780-AD042F83670E}.Debug|x64.ActiveCfg = Debug|x64
+		{244F60F8-F155-4414-B780-AD042F83670E}.Debug|x64.Build.0 = Debug|x64
+		{244F60F8-F155-4414-B780-AD042F83670E}.Debug|x86.ActiveCfg = Debug|Win32
+		{244F60F8-F155-4414-B780-AD042F83670E}.Debug|x86.Build.0 = Debug|Win32
+		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x64.ActiveCfg = Release|x64
+		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x64.Build.0 = Release|x64
+		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x86.ActiveCfg = Release|Win32
+		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -277,6 +287,7 @@ Global
 		{B0A3B059-EB67-4A69-8C45-B81C8F908C5D} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 		{87217935-5DF2-47D2-8284-3FA358615C24} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 		{4C1EA637-6853-4967-9146-159109F3FC82} = {635319B6-7A25-4048-91A7-F206FD7D3094}
+		{244F60F8-F155-4414-B780-AD042F83670E} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA856214-0A95-472D-B74C-D1673552083B}
