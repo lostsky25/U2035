@@ -63,6 +63,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "09 12 2023 new delete", "09
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13 12 2023 new delete задачи", "13 12 2023 new delete задачи\13 12 2023 new delete задачи.vcxproj", "{244F60F8-F155-4414-B780-AD042F83670E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "16 12 2023 struct & templates", "16 12 2023 struct & templates\16 12 2023 struct & templates.vcxproj", "{12736CD3-8F1E-42E3-81A0-8254B442DE06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -255,6 +257,14 @@ Global
 		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x64.Build.0 = Release|x64
 		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x86.ActiveCfg = Release|Win32
 		{244F60F8-F155-4414-B780-AD042F83670E}.Release|x86.Build.0 = Release|Win32
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Debug|x64.ActiveCfg = Debug|x64
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Debug|x64.Build.0 = Debug|x64
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Debug|x86.ActiveCfg = Debug|Win32
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Debug|x86.Build.0 = Debug|Win32
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Release|x64.ActiveCfg = Release|x64
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Release|x64.Build.0 = Release|x64
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Release|x86.ActiveCfg = Release|Win32
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -288,6 +298,7 @@ Global
 		{87217935-5DF2-47D2-8284-3FA358615C24} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 		{4C1EA637-6853-4967-9146-159109F3FC82} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 		{244F60F8-F155-4414-B780-AD042F83670E} = {635319B6-7A25-4048-91A7-F206FD7D3094}
+		{12736CD3-8F1E-42E3-81A0-8254B442DE06} = {635319B6-7A25-4048-91A7-F206FD7D3094}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CA856214-0A95-472D-B74C-D1673552083B}
